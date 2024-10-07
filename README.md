@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @AnwarSameer
-- 👀 I’m interested in ...Health data science
-- 🌱 I’m currently learning ...Health data science
+- 👀 Biomedical Enginneer , MBA  Strategic Finance
+- 🌱 I’m currently pursuing ... Msc in Health data science @ University of Aberdeen
 - 💞️ I’m looking to collaborate on ...Health data science
 - 📫 How to reach me ... anwar.sameer24@abdn.ac.uk
-- 😄 Pronouns: ...male
+- 😄 Pronouns: ...Male
