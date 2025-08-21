@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @AnwarSameer
-- 👀 Biomedical Enginneer , MBA  Strategic Finance
+- 👀 Biomedical Enginneer , MBA  Strategic Finance , Msc in Health Data Science
 - 🌱 I’m currently pursuing ... Msc in Health data science @ University of Aberdeen
 - 💞️ I’m looking to collaborate on ...Health data science
 - 📫 How to reach me ... anwar.sameer24@abdn.ac.uk
